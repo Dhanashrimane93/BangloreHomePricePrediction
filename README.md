@@ -4,8 +4,13 @@ Third component is the website built in html, css and javascript that allows use
 the predicted price. During model building we will cover almost all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering,
 dimensionality reduction, gridsearchcv for hyperparameter tunning, k fold cross validation etc. Technology and tools wise this project covers,
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
-Jupyter notebook, visual studio code and pycharm as IDE
+Python,
+
+Numpy and Pandas for data cleaning,
+
+Matplotlib for data visualization,
+
+Sklearn for model building,
+
+Jupyter notebook, visual studio code and pycharm as IDE.
+
